@@ -1,0 +1,4 @@
+#Sun May 29 19:44:39 EET 2022
+base.0=D\:\\Programlar\\Unity\\Yarisma\\MEKBAG\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
