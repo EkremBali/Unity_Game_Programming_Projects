@@ -1,0 +1,204 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'tr' Physical Memory: 16272 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\Unity\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/Kayıtlar/TrafficRacer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61477
+Successfully changed project path to: D:/Unity/Kayıtlar/TrafficRacer
+D:/Unity/Kayıtlar/TrafficRacer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path D:/Unity/Unity/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/Kayıtlar/TrafficRacer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'D:/Unity/Unity/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/Unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/Unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56056
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/Unity/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/Unity/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005613 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 32.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.534 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000927 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.026 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1239 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1713.
+Total: 2.132300 ms (FindLiveObjects: 0.253400 ms CreateObjectMapping: 0.204300 ms MarkObjects: 1.521300 ms  DeleteObjects: 0.152200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefab/MicroBus4.prefab
+  artifactKey: Guid(c00abea4c948a0f4ba2a77550cbd2a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/MicroBus4.prefab using Guid(c00abea4c948a0f4ba2a77550cbd2a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc6776c8ce8a4bb5740525c43691788') in 0.126076 seconds
+  Import took 0.129551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Prefab/Sedan1.prefab
+  artifactKey: Guid(b06b755b8ff36d54a9ddd1a2ee088359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Sedan1.prefab using Guid(b06b755b8ff36d54a9ddd1a2ee088359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52d26f98635903f1b4a1f5caba4789e4') in 0.025466 seconds
+  Import took 0.027764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.779704 seconds.
+  path: Assets/Prefab/Car2.prefab
+  artifactKey: Guid(8924cfe1c758db244b11344a54f3fb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Car2.prefab using Guid(8924cfe1c758db244b11344a54f3fb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8860a66f750b502dfc94d0a8e0cb4f3c') in 0.026766 seconds
+  Import took 0.030014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.085716 seconds.
+  path: Assets/Prefab/Jeep2.prefab
+  artifactKey: Guid(7656204915832184081db64131ab6c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Jeep2.prefab using Guid(7656204915832184081db64131ab6c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b80d603fc2e57340849eb814cf2b97c') in 0.022534 seconds
+  Import took 0.025159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001587 seconds.
+  path: Assets/Prefab/Jeep2.prefab
+  artifactKey: Guid(7656204915832184081db64131ab6c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Jeep2.prefab using Guid(7656204915832184081db64131ab6c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b80d603fc2e57340849eb814cf2b97c') in 0.021433 seconds
+  Import took 0.024757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.990721 seconds.
+  path: Assets/Prefab/Jeep2.prefab
+  artifactKey: Guid(7656204915832184081db64131ab6c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Jeep2.prefab using Guid(7656204915832184081db64131ab6c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb31f420dc3316d5629beea1c49e47d') in 0.028861 seconds
+  Import took 0.031487 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000898 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.315 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1723.
+Total: 2.118200 ms (FindLiveObjects: 0.284700 ms CreateObjectMapping: 0.077200 ms MarkObjects: 1.648500 ms  DeleteObjects: 0.105800 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.5 MB.
+System memory in use after: 63.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1723.
+Total: 1.949400 ms (FindLiveObjects: 0.210700 ms CreateObjectMapping: 0.068200 ms MarkObjects: 1.584800 ms  DeleteObjects: 0.084200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.320284 seconds.
+  path: Assets/Prefab/Sedan1.prefab
+  artifactKey: Guid(b06b755b8ff36d54a9ddd1a2ee088359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Sedan1.prefab using Guid(b06b755b8ff36d54a9ddd1a2ee088359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cff7f81653d6f3dc905ec98f6c1c460') in 0.073189 seconds
+  Import took 0.075981 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001009 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1207 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1727.
+Total: 1.801800 ms (FindLiveObjects: 0.172200 ms CreateObjectMapping: 0.047000 ms MarkObjects: 1.431200 ms  DeleteObjects: 0.150100 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.5 MB.
+System memory in use after: 63.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1727.
+Total: 2.038800 ms (FindLiveObjects: 0.158900 ms CreateObjectMapping: 0.053800 ms MarkObjects: 1.676300 ms  DeleteObjects: 0.148100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
