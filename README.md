@@ -20,4 +20,4 @@ Türkiye Oyun Geliştirme Şampiyonasında 48 saatte 2 kişi tarafından gelişt
 
 Bu proje ise yine muadillerine benzer bir projedir.Amaç karşıdan akan bir trafikte maksimum mesafe yapmaktır.Ayrıca bir ödül-ceza sistemi bulunmaktadır, yol üzerinde denk gelinen yeşil balon alınırsa oyuncuya ödül olarak trafikteki araçlar stop eder.Kırmızı balon alınırsa ceza olarak fren birkaç saniyeliğine tutmaz.Kısıtlı sürede geliştirildiğinden ayrıca Unity'deki araç mekaniklerine çok hakim olmadığımdan oynanış pek iyi değil.Oyun dosyaları içerisinde oynanış videosu bulunmaktadır. 
 
-![Traikte Arana Kullanma Oyunu](https://github.com/EkremBali/Unity_Game_Programming_Projects/blob/main/images/traffic%20racer%20gameplay1.png)
+![Traikte Arana Kullanma Oyunu](https://github.com/EkremBali/Unity_Game_Programming_Projects/blob/main/images/TrafficRacer.png)
